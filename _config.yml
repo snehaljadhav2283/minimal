@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Snehal Jadhav</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/snehal-jadhav-75944b8/">LinkedIn</a> |
+  <a href="https://github.com/snehaljadhav2283">GitHub</a>
+  
+  <br>   
+  Machine Learning and Artificial Intelligence.
+  Working in Risk Management division of Nomura from Last 10 Years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
